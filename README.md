@@ -37,6 +37,7 @@ Ist im grossen Fach &uuml;ber &uuml;ber dem Fahrersitz, links hinter dem kleinen
 #### Weitere Besonderheiten 
  
  * R&uuml;ckfahrscheinwerfer -- kann &uuml;ber einen Schalter im Fach an der Fahrert&uuml;r eingeschaltet werden
+ * Dachluke -- funktioniert nicht mehr so richtig. Mit Gef
 
 ### Camping
 
